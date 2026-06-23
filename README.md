@@ -1,16 +1,8 @@
 # Diary of Iniquity
 
-This is a showcase of my writing for **English 261 (British Literature)**.
+This is a collection of my writing for **English 261 (British Literature)**.
 
 Over the semester I wrote twelve pieces — poems, plays, and essays — all circling one question: where does evil come from? This website collects them in one place.
-
-## How to open it
-
-Open the file **`diary-of-iniquity.html`** in any web browser. That's it — nothing to install.
-
-- Each work starts folded. Click its title to open it.
-- Use the list on the left (or "Contents") to jump around.
-- The little circle in the bottom corner turns the background motion on or off.
 
 ## What's inside
 
