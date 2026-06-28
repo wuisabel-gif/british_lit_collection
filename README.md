@@ -2,7 +2,7 @@
 
 This is a collection of my writing for **English 261 (British Literature)**.
 
-Over the semester I wrote twelve pieces — poems, plays, and essays — all circling one question: where does evil come from? This website collects them in one place.
+Over the semester I wrote twelve pieces (poems, plays, and essays) all circling one question: where does evil come from? This portfolio website collects them in one place.
 
 ## What's inside
 
